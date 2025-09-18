@@ -1,8 +1,6 @@
 ## Hi, I'm Tran Hien 👋
-
- - I’m currently working on ...
- - I’m currently learning ...
- - I’m looking to collaborate on ...
+ - I'm looking for a position related to Data Analyst (DA)
+ - I’m currently learning Python
  - Connect me:
 <div align="center">
   
